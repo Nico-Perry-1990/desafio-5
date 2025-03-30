@@ -15,3 +15,5 @@ Este repositorio contiene el desarrollo y la gestión del proyecto **FDSW-GitHub
 # Renombrar la rama principal a 'main2'
 ```git branch -M main2```
 ````
+
+## Cambios en el header
