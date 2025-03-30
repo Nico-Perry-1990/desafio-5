@@ -8,8 +8,6 @@ Este repositorio contiene el desarrollo y la gestión del proyecto **FDSW-GitHub
 
 ## Primeros Pasos
 
-Para inicializar el repositorio y configurar la rama principal, sigue estos comandos:
-
 ````bash
 # Inicializar Git en el proyecto
 ```git init```
