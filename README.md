@@ -32,3 +32,8 @@ Este repositorio contiene el desarrollo y la gestión del proyecto **FDSW-GitHub
 - Se actualiza el nombre de la página
 - Se cambia la imagen del header
 - Se cambia el idioma del sitio
+
+## Cambios en Mis Trabajos
+
+- Se cambian las imágenes de las cartas
+- Se actualiza la información de experiencia laboral
