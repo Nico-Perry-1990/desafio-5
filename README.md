@@ -17,3 +17,18 @@ Este repositorio contiene el desarrollo y la gestión del proyecto **FDSW-GitHub
 ````
 
 ## Cambios en el header
+
+- Se Actualiza el nombre de en el navbar
+
+---
+
+## Cambios en el main
+
+- se actualiza sección "Acerca de Mi"
+- Se cambian los iconos de Font-Awesome
+
+## Cambios en el header v2
+
+- Se actualiza el nombre de la página
+- Se cambia la imagen del header
+- Se cambia el idioma del sitio
